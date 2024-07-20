@@ -23,7 +23,7 @@ I am excited to apply these skills to my current and future projects, and I am c
 
 If anyone has small projects or part-time work opportunities in Excel, feel free to contact me. I would love to contribute and further enhance my skills.
 
-![Certificate](https://drive.google.com/file/d/1pf9Xp7KH-MGwMyb9WCFTl96U_H9wdSx9/view?usp=drive_link)
+[![Certificate](https://drive.google.com/uc?export=view&id=1pf9Xp7KH-MGwMyb9WCFTl96U_H9wdSx9)](https://drive.google.com/file/d/1pf9Xp7KH-MGwMyb9WCFTl96U_H9wdSx9/view?usp=drive_link)
 
 ---
 
